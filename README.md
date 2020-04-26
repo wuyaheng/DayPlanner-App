@@ -1,2 +1,2 @@
-# DayPlanner-App
-Create a day planner
+# Day-Planner
+Create a Day-Planner
